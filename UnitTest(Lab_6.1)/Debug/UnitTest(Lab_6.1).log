@@ -1,0 +1,32 @@
+﻿  pch.cpp
+  UnitTest(Lab_6.1).cpp
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.h(24,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.h(28,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.h(32,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.h(36,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.h(54,23): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.h(57,57): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.h(59,69): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.cpp(9,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.cpp(19,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.cpp(33,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.cpp(46,50): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.cpp(77,59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.cpp(89,77): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.cpp(98,24): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.cpp(112,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.cpp(141,14): warning C4244: 'argument': conversion from 'const double' to 'const Array::size_type', possible loss of data
+C:\Users\dwtwm\source\repos\Lab_6.1\UnitTest(Lab_6.1)\UnitTest(Lab_6.1).cpp(19,26): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\dwtwm\source\repos\Lab_6.1\UnitTest(Lab_6.1)\UnitTest(Lab_6.1).cpp(19,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dwtwm\source\repos\Lab_6.1\UnitTest(Lab_6.1)\UnitTest(Lab_6.1).cpp(19,32): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\dwtwm\source\repos\Lab_6.1\UnitTest(Lab_6.1)\UnitTest(Lab_6.1).cpp(19,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dwtwm\source\repos\Lab_6.1\UnitTest(Lab_6.1)\UnitTest(Lab_6.1).cpp(19,39): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\dwtwm\source\repos\Lab_6.1\UnitTest(Lab_6.1)\UnitTest(Lab_6.1).cpp(19,39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dwtwm\source\repos\Lab_6.1\UnitTest(Lab_6.1)\UnitTest(Lab_6.1).cpp(19,46): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\dwtwm\source\repos\Lab_6.1\UnitTest(Lab_6.1)\UnitTest(Lab_6.1).cpp(19,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dwtwm\source\repos\Lab_6.1\UnitTest(Lab_6.1)\UnitTest(Lab_6.1).cpp(19,52): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\dwtwm\source\repos\Lab_6.1\UnitTest(Lab_6.1)\UnitTest(Lab_6.1).cpp(19,52): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dwtwm\source\repos\Lab_6.1\UnitTest(Lab_6.1)\UnitTest(Lab_6.1).cpp(19,59): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\dwtwm\source\repos\Lab_6.1\UnitTest(Lab_6.1)\UnitTest(Lab_6.1).cpp(19,59): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\dwtwm\source\repos\Lab_6.1\Debug\UnitTest(Lab_6.1).lib and object C:\Users\dwtwm\source\repos\Lab_6.1\Debug\UnitTest(Lab_6.1).exp
+  UnitTest(Lab_6.1).vcxproj -> C:\Users\dwtwm\source\repos\Lab_6.1\Debug\UnitTest(Lab_6.1).dll

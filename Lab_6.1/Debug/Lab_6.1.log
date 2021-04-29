@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.h(24,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.h(28,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.h(32,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.h(36,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.h(54,23): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.h(57,57): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_6.1\Lab_6.1\Array.h(59,69): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Lab_6.1.vcxproj -> C:\Users\dwtwm\source\repos\Lab_6.1\Debug\Lab_6.1.exe
